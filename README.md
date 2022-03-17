@@ -1,20 +1,3 @@
-<center><img src="https://a.uguu.se/ROZbMynM.webp" alt="XFar" width="500" />
-</p></center>
-<p align="center">
-<a href="#"><img title="xfarr-api" src="https://img.shields.io/badge/xfarr-api-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
-<p align="center">
-<a href="https://github.com/xfar05/xfarr-api"><img title="Followers" src="https://img.shields.io/github/followers/xfar05?color=blue&style=flat-square"></a>
-<a href="https://github.com/xfar05/xfarr-api"><img title="Stars" src="https://img.shields.io/github/stars/xfar05/xfarr-api?color=red&style=flat-square"></a>
-<a href="https://github.com/xfar05/xfarr-api/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xfar05/xfarr-api?color=red&style=flat-square"></a>
-<a href="https://github.com/xfar05/xfarr-api/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xfar05/xfarr-api?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-
-## Penginstalan
-> npm install xfarr-api
->
-> npm uninstall xfarr-api
-
 ## ```Downloader```
 ```js
 const xa = require('xfarr-api');
